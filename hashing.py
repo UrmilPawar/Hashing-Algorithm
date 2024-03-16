@@ -1,10 +1,11 @@
-input='Thakur College'
+input='Urmil Pawar'
 count={}
 position={}
 temp=[]
 table=[]
 sequence='abcdefghijklmnopqrstuvwxyz '
 
+print('The given input is : ',input)
 #------------------------------------Counting the occurences---------------------------------------------
 
 input=input.lower()                            #converting the input to lowercase to avoid the conflict of cases
@@ -106,6 +107,4 @@ for char in sequence:
         counter=counter+1
 
 print('The Hash Value is : ',HashValue)
-
-print(len(HashValue))
         
