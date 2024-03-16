@@ -5,7 +5,7 @@ The project focuses on creating a Cryptographic Hashing Algorithm for generating
 
 ## Images
 - For same input, the same hash value is generated every time
-![hash1](https://github.com/UrmilPawar/Hashing-Algorithm/blob/master/Images/hash1.png?raw=true)
+![hash1](Images/hash1.png)
 
 - Hash Value for my name
-![hash2](https://github.com/UrmilPawar/Hashing-Algorithm/blob/master/Images/hash2.png?raw=true)
+![hash2](Images/hash2.png)
